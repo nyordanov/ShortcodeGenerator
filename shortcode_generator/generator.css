@@ -1,0 +1,17 @@
+.generate-shortcode {
+	margin: 20px 0 10px 0;
+	display: block;
+	text-align: center;
+}
+
+#pricing-shortcode .form-table tr:nth-child(6n+1) {
+	border-bottom: 1px solid #ddd;
+}
+
+#pricing-shortcode .form-table tr:nth-child(n+20) {
+	display: none;
+}
+
+#pricing-shortcode .form-table textarea {
+	width: 100%;
+}
